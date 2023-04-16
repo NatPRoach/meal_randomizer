@@ -1,0 +1,14 @@
+recipe:
+  name: "Example recipe"
+  seasons:
+    - Summer
+    - Winter
+    - Spring
+    - Fall
+  ethnicities:
+    - American
+  ingredients:
+    - 3/4 cup flour
+    - 5 tsp salt
+  steps:
+    - Add the salt to the flour.
